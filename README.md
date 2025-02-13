@@ -1,5 +1,3 @@
-# Docs-to-pptx-converter
-create a Python tool that converts .docx documents into .pptx presentations.
 # Docx to Pptx Converter
 
 This project is a Python tool that converts .docx documents into .pptx presentations.
@@ -13,5 +11,7 @@ This project is a Python tool that converts .docx documents into .pptx presentat
 - python-pptx
 
 ## Installation
-```bash
+```bash macos/linux
 pip3 install -r requirements.txt
+## for windows 
+pip install -r requirements.txt
